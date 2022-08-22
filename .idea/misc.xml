@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Lee/Test/hansei/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Lee/Test/hansei/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Lee/Test/hansei/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Lee/Test/hansei/app/src/main/res/layout/activity_sign_up.xml" value="0.1778115501519757" />
         <entry key="..\:/Users/Lee/Test/hansei/app/src/main/res/layout/activity_splash.xml" value="0.1" />
       </map>
     </option>
